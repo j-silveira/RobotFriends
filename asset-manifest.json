@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RobotFriends/static/css/main.e365cadb.css",
+    "main.js": "/RobotFriends/static/js/main.095cd9dc.js",
+    "static/js/787.32495514.chunk.js": "/RobotFriends/static/js/787.32495514.chunk.js",
+    "static/media/SF Buttacup Lettering Shaded.woff": "/RobotFriends/static/media/SF Buttacup Lettering Shaded.16841c050e0cc8a3fbb8.woff",
+    "index.html": "/RobotFriends/index.html",
+    "main.e365cadb.css.map": "/RobotFriends/static/css/main.e365cadb.css.map",
+    "main.095cd9dc.js.map": "/RobotFriends/static/js/main.095cd9dc.js.map",
+    "787.32495514.chunk.js.map": "/RobotFriends/static/js/787.32495514.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e365cadb.css",
+    "static/js/main.095cd9dc.js"
+  ]
+}
